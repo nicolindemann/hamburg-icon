@@ -1,0 +1,17 @@
+{
+  "name": "@nicolindemann/hamburg-icon",
+  "version": "1.0.0",
+  "privat": true,
+  "description": "Sterilized SVG Version of the coat of arms of Hamburg",
+  "main": "hamburg-icon.svg",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolindemann/hamburg-icon.git"
+  },
+  "author": "Nico Lindemann <nico.lindemann@proux.net>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/nicolindemann/hamburg-icon/issues"
+  },
+  "homepage": "https://github.com/nicolindemann/hamburg-icon#readme"
+}
