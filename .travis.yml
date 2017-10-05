@@ -4,7 +4,7 @@ notifications:
 before_script:
 - sudo apt-get install libxml2-utils
 script:
-- xmllint logo.svg --noout
+- xmllint hamburg-icon.svg --noout
 branches:
   except:
   - /^v\d+\.\d+\.\d+$/
